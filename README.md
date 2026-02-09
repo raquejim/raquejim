@@ -8,7 +8,7 @@ Here are some of the projects I have worked on: Portfolio
 ## 🛠️ Tools
 * Languages: Python, SQL, Java
 * Database: MySQL
-* Visualization: Tableau, Google Earth Engine 
+* Visualization: Tableau, Google Earth Engine, Stata 
 
 ## 👋🏼 Other profiles 
 * [Linkedin](www.linkedin.com/in/raquel-jimenez-30b5462b1)
