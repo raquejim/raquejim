@@ -1,0 +1,13 @@
+Hello! I'm Raquel. I am a current undergraduate senior student at New York University Shanghai, interested in environmental data scince. I have expertise in data analysis, data visualization and database design.
+
+## 📁 Portfolio 
+Here are some of the projects I have worked on: Portfolio
+
+## 🛠️ Tools
+* Languages: Python, SQL, Java
+* Database: MySQL
+* Visualization: Tableau, Google Earth Engine 
+
+## 👋🏼 Other profiles 
+* [Linkedin](www.linkedin.com/in/raquel-jimenez-30b5462b1)
+* [Tableau](https://public.tableau.com/app/profile/raquel.jimenez.fernandez/vizzes)
