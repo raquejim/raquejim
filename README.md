@@ -3,7 +3,7 @@
 Hello! I am Raquel, a current undergraduate senior student at New York University Shanghai interested in environmental data scince. I have expertise in data analysis, data visualization and database design.
 
 ## 📁 Portfolio 
-Here are some of the projects I have worked on: Portfolio
+Here are all of the [projects](https://github.com/raquejim/Portfolio-Guide) I have worked on for NYU and for leisure!
 
 ## 🛠️ Tools
 * Languages: Python, SQL, Java
