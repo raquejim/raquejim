@@ -13,3 +13,4 @@ Here are all of the [projects](https://github.com/raquejim/Portfolio-Guide) I ha
 ## 👋🏼 Other profiles 
 * [Linkedin](www.linkedin.com/in/raquel-jimenez-30b5462b1)
 * [Tableau](https://public.tableau.com/app/profile/raquel.jimenez.fernandez/vizzes)
+* [Kaggle](https://www.kaggle.com/raqueejim)
