@@ -10,15 +10,9 @@ Here are all of the [projects](https://github.com/raquejim/Portfolio-Guide) I ha
 Aqui estan todos mis [proyectos](https://github.com/raquejim/Portfolio-Guide) en los que he trabajado para NYU y en mi tiempo libre!
 
 ## 🛠️ Tools / Herramientas
-* Languages: Python, SQL, Java
-* Database: MySQL
-* Visualization: Tableau, Google Earth Engine, Stata
-
-------------------------------------------------------
-
-* Lenguages: Python, SQL, Java 
-* Base de datos: MySQL
-* Visualizacion: Tableau, Google Earth Engine, Stata
+* Languages/Lenguajes: Python, SQL, Java
+* Database/Diseño de bases: MySQL
+* Visualization/Visualizacion: Tableau, Google Earth Engine, Stata
 
 ## 👋🏼 Other profiles / Otros perfiles
 * [Linkedin](www.linkedin.com/in/raquel-jimenez-30b5462b1)
