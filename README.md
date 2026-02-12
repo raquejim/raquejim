@@ -14,6 +14,8 @@ Aqui estan todos mis [proyectos](https://github.com/raquejim/Portfolio-Guide) en
 * Database: MySQL
 * Visualization: Tableau, Google Earth Engine, Stata
 
+------------------------------------------------------
+
 * Lenguages: Python, SQL, Java 
 * Base de datos: MySQL
 * Visualizacion: Tableau, Google Earth Engine, Stata
